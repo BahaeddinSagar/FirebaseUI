@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "215633655765",
+    "firebase_url": "https://thereallyeasyway.firebaseio.com",
+    "project_id": "thereallyeasyway",
+    "storage_bucket": "thereallyeasyway.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215633655765:android:cdacea0bbb3ede84",
+        "android_client_info": {
+          "package_name": "com.example.thereallyeasyway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215633655765-vvqq72p6djpfj5l6m7np8s1rbglscvjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thereallyeasyway",
+            "certificate_hash": "ced0e0520d977067d612c006b09363038185b2b8"
+          }
+        },
+        {
+          "client_id": "215633655765-2tcqg64krpkbvlcvauodn5dofbr92280.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsXOyG18SGGRv1xTzSm_XKctw3lVHn5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215633655765-2tcqg64krpkbvlcvauodn5dofbr92280.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
